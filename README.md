@@ -16,4 +16,4 @@ Bibliotecas usadas
 
 ## Pré-requisitos
 Para testar este código:
-* Substitua o valor `API_KEY` [aqui] (https://github.com/Felcio/Wit-Challenge-Android/blob/main/app/src/main/java/com/felcio/wit_android_challenge/utils/Constants.kt) com sua própria chave de API (Obtenha-a [aqui] (https://openweathermap.org/))
+* Substitua o valor `API_KEY` [aqui] (https://github.com/Felcio/Wit-Challenge-Android/blob/main/app/src/main/java/com/felcio/wit_chanlenge_android/utils/Constants.kt) com sua própria chave de API (Obtenha-a [aqui] (https://openweathermap.org/))
